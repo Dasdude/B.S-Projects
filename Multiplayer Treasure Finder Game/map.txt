@@ -1,0 +1,5 @@
+4 5 
+E G B C C
+E E E C C
+E R C C C
+E C E C C
